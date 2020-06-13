@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/address-manager/static/css/main.603bb7ea.chunk.css",
-    "main.js": "/address-manager/static/js/main.9f0f9af3.chunk.js",
-    "main.js.map": "/address-manager/static/js/main.9f0f9af3.chunk.js.map",
+    "main.js": "/address-manager/static/js/main.51fa4a06.chunk.js",
+    "main.js.map": "/address-manager/static/js/main.51fa4a06.chunk.js.map",
     "runtime-main.js": "/address-manager/static/js/runtime-main.708a091c.js",
     "runtime-main.js.map": "/address-manager/static/js/runtime-main.708a091c.js.map",
     "static/js/2.1390d6fe.chunk.js": "/address-manager/static/js/2.1390d6fe.chunk.js",
     "static/js/2.1390d6fe.chunk.js.map": "/address-manager/static/js/2.1390d6fe.chunk.js.map",
     "index.html": "/address-manager/index.html",
-    "precache-manifest.dea6d860b7a1fffa4428cb80aa5ebacd.js": "/address-manager/precache-manifest.dea6d860b7a1fffa4428cb80aa5ebacd.js",
+    "precache-manifest.db9a6010b0a7c023b7d02d5923d118af.js": "/address-manager/precache-manifest.db9a6010b0a7c023b7d02d5923d118af.js",
     "service-worker.js": "/address-manager/service-worker.js",
     "static/css/main.603bb7ea.chunk.css.map": "/address-manager/static/css/main.603bb7ea.chunk.css.map",
     "static/js/2.1390d6fe.chunk.js.LICENSE.txt": "/address-manager/static/js/2.1390d6fe.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.708a091c.js",
     "static/js/2.1390d6fe.chunk.js",
     "static/css/main.603bb7ea.chunk.css",
-    "static/js/main.9f0f9af3.chunk.js"
+    "static/js/main.51fa4a06.chunk.js"
   ]
 }

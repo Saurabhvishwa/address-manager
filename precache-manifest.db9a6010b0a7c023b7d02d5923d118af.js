@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51386233e7671873fd3731112de1a148",
+    "revision": "9689eca25670a335452df47156282949",
     "url": "/address-manager/index.html"
   },
   {
-    "revision": "c9266ed96ec470f474bc",
+    "revision": "a7975cfe318150331771",
     "url": "/address-manager/static/css/main.603bb7ea.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/address-manager/static/js/2.1390d6fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9266ed96ec470f474bc",
-    "url": "/address-manager/static/js/main.9f0f9af3.chunk.js"
+    "revision": "a7975cfe318150331771",
+    "url": "/address-manager/static/js/main.51fa4a06.chunk.js"
   },
   {
     "revision": "7cab3496a069979abca3",
