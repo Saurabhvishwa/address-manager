@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/address-manager/static/css/main.603bb7ea.chunk.css",
+    "main.js": "/address-manager/static/js/main.f064280a.chunk.js",
+    "main.js.map": "/address-manager/static/js/main.f064280a.chunk.js.map",
+    "runtime-main.js": "/address-manager/static/js/runtime-main.708a091c.js",
+    "runtime-main.js.map": "/address-manager/static/js/runtime-main.708a091c.js.map",
+    "static/js/2.1390d6fe.chunk.js": "/address-manager/static/js/2.1390d6fe.chunk.js",
+    "static/js/2.1390d6fe.chunk.js.map": "/address-manager/static/js/2.1390d6fe.chunk.js.map",
+    "index.html": "/address-manager/index.html",
+    "precache-manifest.9a31b5bf54f31687e68780955fe59a2b.js": "/address-manager/precache-manifest.9a31b5bf54f31687e68780955fe59a2b.js",
+    "service-worker.js": "/address-manager/service-worker.js",
+    "static/css/main.603bb7ea.chunk.css.map": "/address-manager/static/css/main.603bb7ea.chunk.css.map",
+    "static/js/2.1390d6fe.chunk.js.LICENSE.txt": "/address-manager/static/js/2.1390d6fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.708a091c.js",
+    "static/js/2.1390d6fe.chunk.js",
+    "static/css/main.603bb7ea.chunk.css",
+    "static/js/main.f064280a.chunk.js"
+  ]
+}
